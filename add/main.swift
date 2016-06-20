@@ -8,5 +8,8 @@
 
 import Foundation
 
-print("Hello, World!")
+var a = 2
+var b = 3
+let c = a+b
+print(c);
 
